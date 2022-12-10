@@ -1,4 +1,3 @@
-Netflix data set
-removed null values
+Filled Null values
 check hihgest number of movies tv shows
-year having highest number of releases
+Graphcally represented year having highest number of releases
